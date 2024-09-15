@@ -45,3 +45,13 @@ console.log(LiPn);
 const li1=document.createElement('li');
 li1.innerText='Shalbon ';
 LiPn.appendChild(li1);
+
+
+// section_furts
+const scFurts=document.getElementsByClassName('section_furts')[0];
+scFurts.style.background='red';
+
+
+
+// const scFurts=document.querySelector('.section_furts');
+// scFurts.style.background='red';
