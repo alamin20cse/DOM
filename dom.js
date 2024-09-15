@@ -52,6 +52,10 @@ const scFurts=document.getElementsByClassName('section_furts')[0];
 scFurts.style.background='red';
 
 
+const sccFurts=document.getElementsByClassName('section_furts')[1];
+sccFurts.style.background='Yellow';
+
+
 
 // const scFurts=document.querySelector('.section_furts');
 // scFurts.style.background='red';
